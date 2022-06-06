@@ -1,0 +1,65 @@
+body{
+    background-image:url(images/black.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+}
+.menu{
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.h1{
+    text-decoration: none;
+    padding: 5px;
+    background-color: LightGray;
+    border-radius: 20px;
+    margin-left: 30px;
+    color: black;
+   
+   
+}
+.menu ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    list-style: none; 
+    font-size:20px;
+    
+}
+.menu ul li a{
+    padding: 10px 10px 0px 10px;
+    text-decoration: none;
+}
+
+
+
+.header {
+     text-align: center;
+     font-size: 40px;
+     width:550px;
+}
+
+.about{
+     margin-left:90px;
+     font-size:35px;
+     margin-top:80px;
+     color:white;
+}
+
+.gambar img{
+      width:300px;
+      height:300;
+      margin-left:500px;
+      margin-top: 30px;
+      border-radius:10px;
+}
+
+.word {
+     text-align:center;
+     font-size: 25px;
+     color:White;
+}
